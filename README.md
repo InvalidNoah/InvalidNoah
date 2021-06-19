@@ -2,7 +2,7 @@
 
 
 **Serverfarmer02/Serverfarmer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Serverfarmer02.tk](https://serverarmy.clan.rip)
+[Serverfarmer.at](https://short.serverarmy.at)
 
 Here are some ideas to get you started:
 <!--
