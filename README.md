@@ -2,8 +2,8 @@
 
 
 Mein Name ist *Noah* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
-- [ ] [www.serverfarmer.at](https://www.serverfarmer.at)
-- [ ] [Meine APIS](https://eynoah.github.io/eyapis/ "Klicke hier für meine APIS") 
+- [ ] [www.eynoah.club](https://www.eynoah.club)
+- [ ] [Meine APIS](https://eyapis.eynoah.club/ "Klicke hier für meine APIS") 
 
 Here are some ideas to get you started:
 <!--
