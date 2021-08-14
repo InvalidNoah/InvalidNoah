@@ -3,7 +3,9 @@
 
 Mein Name ist *Noah* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
 - [ ] [www.eynoah.club](https://www.eynoah.club)
-- [ ] [Meine APIS](https://eyapis.eynoah.club/ "Klicke hier für meine APIS") 
+- [ ] [Meine APIS](https://eyapis.eynoah.club/ "Klicke hier für meine APIS")
+- [ ] [link name](http://www.derparty.club "🇦🇹") 
+- [ ] [kylo.eynoah.xyz](https://kylo.eynoah.xyz "Kylo Bot from 🇦🇹")
 
 Here are some ideas to get you started:
 <!--
