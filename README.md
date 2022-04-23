@@ -1,13 +1,14 @@
 ### Hey 👋, na ihr?
 
 
-Mein Name ist *Noah* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
+Mein Name ist *Noah* ich bin *19* Jahre alt.<br>
 - [ ] [www.eynoah.club](https://www.eynoah.club)
-- [ ] [Meine APIS](https://eyapis.eynoah.club/ "Klicke hier für meine APIS")
+- [ ] [Meine APIS](https://github.com/InvalidNoah/ "Klicke hier für meine APIS")
 - [ ] [link name](http://www.derparty.club "🇦🇹") 
 - [ ] [kylo.eynoah.xyz](https://kylo.eynoah.xyz "Kylo Bot from 🇦🇹")
 
 Here are some ideas to get you started:
+- 🔭 Ich arbeite aktuell an [@RusherUnion](https://github.com/RusherUnion)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
