@@ -6,7 +6,7 @@ Mein Name ist *Noah* ich bin *19* Jahre alt.<br>
 - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
 
 Here are some ideas to get you started:
-- 🔭 Ich arbeite aktuell an [@RusherUnion](https://github.com/RusherUnion)
+- 🔭 Ich arbeite aktuell an [@VeranyNetwork](https://github.com/VeranyNetwork)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
