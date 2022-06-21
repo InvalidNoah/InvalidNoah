@@ -1,7 +1,7 @@
 ### Hey 👋, na ihr?
 
 
-Mein Name ist *Noah* ich bin *19* Jahre alt.<br>
+Mein Name ist *Malik* ich bin *19* Jahre alt.<br>
 - [ ] [www.eynoah.club](https://www.eynoah.club)
 - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
 
@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 ```java
 
-public class Noah {
+public class Malik {
 
     private String name;
     private int age;
     private String city;
     private String favoritegame;
 
-    public Noah(){
-        this.name = "Noah";
+    public Malik(){
+        this.name = "Malik";
         this.age = 19;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
@@ -38,6 +38,7 @@ public class Noah {
 **Java:**
 - [x] Spigot/BungeeAPI
 - [ ] Discord/JDA
+- [ ] MySQL
 
 **HTML:**
 - [ ] Style/CSS
