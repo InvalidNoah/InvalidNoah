@@ -1,8 +1,8 @@
 ### Hey 👋, na ihr?
 
 
-Mein Name ist *Malik* ich bin *19* Jahre alt.<br>
-- [ ] [www.eynoah.club](https://www.eynoah.club)
+Mein Name ist **Noah*** ich bin **19** Jahre alt.<br>
+- [ ] [www.eynoah.de](https://www.eynoah.de)
 - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
 
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ```java
 
-public class Malik {
+public class Noah {
 
     private String name;
     private int age;
@@ -27,7 +27,7 @@ public class Malik {
     private String favoritegame;
 
     public Malik(){
-        this.name = "Malik";
+        this.name = "Noah";
         this.age = 19;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
