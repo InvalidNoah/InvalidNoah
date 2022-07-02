@@ -1,7 +1,7 @@
 ### Hey 👋, na ihr?
 
 
-Mein Name ist **Noah*** ich bin **19** Jahre alt.<br>
+Mein Name ist **Noah** ich bin **19** Jahre alt.<br>
 - [ ] [www.eynoah.de](https://www.eynoah.de)
 - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
 
