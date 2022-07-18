@@ -26,7 +26,7 @@ public class Noah {
     private String city;
     private String favoritegame;
 
-    public Malik(){
+    public Noah(){
         this.name = "Noah";
         this.age = 19;
         this.city = "Vienna";
