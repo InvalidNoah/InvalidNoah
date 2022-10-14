@@ -2,7 +2,7 @@
 
 
 Mein Name ist **Noah** ich bin **19** Jahre alt.<br>
-- [ ] [www.eynoah.de](https://www.eynoah.de)
+- [ ] [eynoah.de](https://eynoah.de)
 - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
 
 Here are some ideas to get you started:
