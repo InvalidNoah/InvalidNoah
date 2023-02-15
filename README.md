@@ -3,10 +3,12 @@
 Mein Name ist **Noah** ich bin **20** Jahre alt.<br>
 <a href="https://dc.aktiverstreamer.de" target="_blank"><img src="https://discord.c99.nl/widget/theme-5/586231322993754119.png"></a>
 
+
 # Meine Aktuellen Projekte
 <!-- - [ ] [eynoah.de](https://eynoah.de) -->
 - [ ] [XeloGames Netzwerk](https://discord.gg/gapUTpADgb 'Joine gerne') (*Minecraft*)
-- [ ] [XeloLife.gg](https://dc.rubysocials.tk 'Joine Gerne') (*FiveM*)
+- [ ] [Project with LucyJS](https://dc.seframc.de 'Join us') (*MCPE*)
+<!-- - [ ] [XeloLife.gg](https://dc.rubysocials.tk 'Joine Gerne') (*FiveM*) -->
 <!-- - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh") -->
 
 
@@ -32,7 +34,7 @@ public class Noah {
 
     public Noah(){
         this.name = "Noah";
-        this.age = 19;
+        this.age = 20;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
     }
