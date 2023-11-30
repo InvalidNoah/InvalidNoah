@@ -46,13 +46,17 @@ public class Noah {
 **Java:**
 - [x] Spigot/BungeeAPI
 - [x] MySQL
-- [ ] Discord/JDA
+
 
 **PHP:**
 - [x] Web basierte Sachen
-- [ ] Panels
-
+- [x] Panels
 
 **HTML:**
 - [ ] Style/CSS
 - [ ] Javascript code
+
+**Discord:**
+- [x] Discord/Python
+- [ ] Discord/JDA
+
