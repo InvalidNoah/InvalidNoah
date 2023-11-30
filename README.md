@@ -6,13 +6,13 @@ Mein Name ist **Noah** ich bin **20** Jahre alt.<br>
 
 # Meine Aktuellen Projekte
 <!-- - [ ] [eynoah.de](https://eynoah.de) -->
-- [ ] [XeloGames Netzwerk](https://discord.gg/gapUTpADgb 'Joine gerne') (*Minecraft*)
-- [ ] [Project with LennexDev](https://discord.gg/gamemode 'Join us') (*MCPE*)
+<!-- - [ ] [XeloGames Netzwerk](https://discord.gg/gapUTpADgb 'Joine gerne') (*Minecraft*)
+- [ ] [Project with LennexDev](https://discord.gg/gamemode 'Join us') (*MCPE*) -->
 <!-- - [ ] [XeloLife.gg](https://dc.rubysocials.tk 'Joine Gerne') (*FiveM*) -->
 <!-- - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh") -->
 
 
-- 🔭 Ich arbeite aktuell an [Luriax und RubyRP](https://twitch.tv/DeinFavStreamer)
+- 🔭 Ich arbeite aktuell an [@RyzeHosting](https://dc.rzhst.link)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
