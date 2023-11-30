@@ -31,12 +31,14 @@ public class Noah {
     private int age;
     private String city;
     private String favoritegame;
+    private String birthday;
 
     public Noah(){
         this.name = "Noah";
         this.age = 20;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
+        this.birthday = "11.12.2002";
     }
 }
 ```
