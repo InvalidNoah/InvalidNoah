@@ -1,7 +1,7 @@
 # Über mich 👋
 
-Mein Name ist **Noah** ich bin **20** Jahre alt.<br>
-<a href="https://dc.aktiverstreamer.de" target="_blank"><img src="https://discord.c99.nl/widget/theme-5/586231322993754119.png"></a>
+Mein Name ist **Noah** ich bin **21** Jahre alt.<br>
+<a href="https://discord.gg/noahsdc" target="_blank"><img src="https://discord.c99.nl/widget/theme-5/586231322993754119.png"></a>
 
 
 # Meine Aktuellen Projekte
