@@ -12,7 +12,7 @@ Mein Name ist **Noah** ich bin **21** Jahre alt.<br>
 <!-- - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh") -->
 
 
-- 🔭 Ich arbeite aktuell an [@RyzeHosting](https://dc.rzhst.link)
+- 🔭 Ich arbeite aktuell an ``Keinem Projekt``
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
