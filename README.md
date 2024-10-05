@@ -35,7 +35,7 @@ public class Noah {
 
     public Noah(){
         this.name = "Noah";
-        this.age = 20;
+        this.age = 21;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
         this.birthday = "11.12.2002";
